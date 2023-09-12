@@ -565,7 +565,7 @@ Domain.Text.Position = UDim2.new(0.16016829, 0, 0.146470279, 0)
 Domain.Text.Size = UDim2.new(0.670576036, 0, 0.670576274, 0)
 Domain.Text.ZIndex = 100
 Domain.Text.Font = Enum.Font.GothamBold
-Domain.Text.Text = "Domain BETA  v0.05"
+Domain.Text.Text = "سكربت سعودية"
 Domain.Text.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.Text.TextScaled = true
 Domain.Text.TextSize = 14.000
@@ -590,7 +590,7 @@ Domain.Title.Position = UDim2.new(0.0535893887, 0, 0.0414540097, 0)
 Domain.Title.Size = UDim2.new(0.474605739, 0, 0.0529777221, 0)
 Domain.Title.ZIndex = 100
 Domain.Title.Font = Enum.Font.GothamBold
-Domain.Title.Text = "Exploit Detected"
+Domain.Title.Text = "تم اكتشاف الاستغلال "
 Domain.Title.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.Title.TextScaled = true
 Domain.Title.TextSize = 14.000
@@ -769,7 +769,7 @@ Domain.Title_2.Position = UDim2.new(0.042754259, 0, 0.0188631248, 0)
 Domain.Title_2.Size = UDim2.new(0.540157259, 0, 0.0415861197, 0)
 Domain.Title_2.ZIndex = 1002
 Domain.Title_2.Font = Enum.Font.GothamBold
-Domain.Title_2.Text = "Universal Exploit Tools"
+Domain.Title_2.Text = "أدوات الاستغلال العالمية "
 Domain.Title_2.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.Title_2.TextScaled = true
 Domain.Title_2.TextSize = 14.000
@@ -2159,7 +2159,7 @@ Domain.About_6.Position = UDim2.new(0.0371906646, 0, 0.115652762, 0)
 Domain.About_6.Size = UDim2.new(0.909608364, 0, 0.0326033197, 0)
 Domain.About_6.ZIndex = 1002
 Domain.About_6.Font = Enum.Font.GothamBold
-Domain.About_6.Text = "Showcasing"
+Domain.About_6.Text = "عرض "
 Domain.About_6.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.About_6.TextScaled = true
 Domain.About_6.TextSize = 14.000
@@ -2296,7 +2296,7 @@ Domain.Content_2.Position = UDim2.new(0.5, 0, 0.5, 0)
 Domain.Content_2.Size = UDim2.new(0.964834988, 0, 1, 0)
 Domain.Content_2.ZIndex = 100
 Domain.Content_2.Font = Enum.Font.GothamBold
-Domain.Content_2.Text = "Welcome, rivertropic."
+Domain.Content_2.Text = "اهلا بك, rivertropic."
 Domain.Content_2.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.Content_2.TextScaled = true
 Domain.Content_2.TextSize = 16.000
@@ -2364,7 +2364,7 @@ Domain.Date.Position = UDim2.new(0.300832152, 0, 0.0287686884, 0)
 Domain.Date.Size = UDim2.new(0.670576036, 0, 0.0295379832, 0)
 Domain.Date.ZIndex = 10
 Domain.Date.Font = Enum.Font.GothamBold
-Domain.Date.Text = "Tuesday, 19th January"
+Domain.Date.Text = "يوم الثلاثاء , 19 يناير "
 Domain.Date.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.Date.TextScaled = true
 Domain.Date.TextSize = 14.000
@@ -2422,7 +2422,7 @@ Domain.VersionText.BorderSizePixel = 0
 Domain.VersionText.Position = UDim2.new(0.035863027, 0, 0.108670361, 0)
 Domain.VersionText.Size = UDim2.new(0.700843453, 0, 0.215540618, 0)
 Domain.VersionText.Font = Enum.Font.GothamBold
-Domain.VersionText.Text = "You're running Domain version versoionnum"
+Domain.VersionText.Text = "أنت تقوم بتشغيل إصدار المجال سعودية "
 Domain.VersionText.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.VersionText.TextScaled = true
 Domain.VersionText.TextSize = 14.000
@@ -2965,7 +2965,7 @@ Domain.UsernameLogs.Position = UDim2.new(0.0705773681, 0, 0.295741588, 0)
 Domain.UsernameLogs.Size = UDim2.new(0.36992082, 0, 0.399726748, 0)
 Domain.UsernameLogs.ZIndex = 1040
 Domain.UsernameLogs.Font = Enum.Font.GothamSemibold
-Domain.UsernameLogs.Text = "Username -"
+Domain.UsernameLogs.Text = "اسم -"
 Domain.UsernameLogs.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.UsernameLogs.TextScaled = true
 Domain.UsernameLogs.TextSize = 14.000
@@ -3016,7 +3016,7 @@ Domain.NoticeMessage.Position = UDim2.new(0.0275973734, 0, 0.491011739, 0)
 Domain.NoticeMessage.Size = UDim2.new(0.272888154, 0, 0.0167460982, 0)
 Domain.NoticeMessage.ZIndex = 1000
 Domain.NoticeMessage.Font = Enum.Font.GothamBold
-Domain.NoticeMessage.Text = "Give us a second while we find the best server for you"
+Domain.NoticeMessage.Text = "امنحنا لحظة حتى نجد أفضل سيرفر لك "
 Domain.NoticeMessage.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.NoticeMessage.TextScaled = true
 Domain.NoticeMessage.TextSize = 14.000
@@ -3110,7 +3110,7 @@ Domain.Textjoin.BorderSizePixel = 0
 Domain.Textjoin.Position = UDim2.new(0.26033023, 0, 0.25, 0)
 Domain.Textjoin.Size = UDim2.new(0.685603261, 0, 0.5, 0)
 Domain.Textjoin.Font = Enum.Font.GothamBold
-Domain.Textjoin.Text = "Your friend, usernameusername has joined the server"
+Domain.Textjoin.Text = "صديقك , usernameusername انضم إلى سيرفر "
 Domain.Textjoin.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.Textjoin.TextScaled = true
 Domain.Textjoin.TextSize = 14.000
@@ -3148,7 +3148,7 @@ Domain.Text_2.BorderSizePixel = 0
 Domain.Text_2.Position = UDim2.new(0.0778996721, 0, 0.24003917, 0)
 Domain.Text_2.Size = UDim2.new(0.840751648, 0, 0.272304982, 0)
 Domain.Text_2.Font = Enum.Font.GothamBold
-Domain.Text_2.Text = "Domain"
+Domain.Text_2.Text = "سكربت سعودية"
 Domain.Text_2.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.Text_2.TextScaled = true
 Domain.Text_2.TextSize = 14.000
@@ -3196,7 +3196,7 @@ Domain.Text_3.BorderSizePixel = 0
 Domain.Text_3.Position = UDim2.new(0.0778996721, 0, 0.134966582, 0)
 Domain.Text_3.Size = UDim2.new(0.840751648, 0, 0.153488904, 0)
 Domain.Text_3.Font = Enum.Font.GothamBold
-Domain.Text_3.Text = "Enter Key"
+Domain.Text_3.Text = "ادخل مفتاح"
 Domain.Text_3.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.Text_3.TextScaled = true
 Domain.Text_3.TextSize = 14.000
@@ -3248,7 +3248,7 @@ Domain.notice.BorderSizePixel = 0
 Domain.notice.Position = UDim2.new(0.218713656, 0, 1.06311345, 0)
 Domain.notice.Size = UDim2.new(0.563880622, 0, 0.153488904, 0)
 Domain.notice.Font = Enum.Font.GothamBold
-Domain.notice.Text = "This is only one time"
+Domain.notice.Text = "هذه مرة واحدة فقط "
 Domain.notice.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.notice.TextScaled = true
 Domain.notice.TextSize = 14.000
@@ -3256,8 +3256,8 @@ Domain.notice.TextWrapped = true
 
 
 V2 = true
-Key = "2r0jfv"
-Key2 = "br"
+Key = "AR"
+Key2 = "AS"
 keyenabled = false
 
 
@@ -3374,7 +3374,7 @@ DangerousGames = {6358843321,3522042406,286090429} -- games that will ban you if
 BackgroundExploits = {
 	EZHub = {
 		Name = "EZHub",
-		Description = "The all-in-one script hub",
+		Description = "مركز البرامج النصية الكل في واحد ",
 		PlaceIds = {204990346,2629642516,1962086868,155615604,2512643572,3101667897,402122991,3823781113,142823291,2317712696,171391948},
 		PremiumOnly = false,
 		WaitDuration = 0,
@@ -3382,7 +3382,7 @@ BackgroundExploits = {
 	},
 	lmber = {
 		Name = "Lumber Tycoon",
-		Description = "Created by Bark Development",
+		Description = "تم إنشاؤها بواسطة تطوير النباح ",
 		PlaceIds = {13822889},
 		PremiumOnly = false,
 		WaitDuration = 0,
@@ -3390,7 +3390,7 @@ BackgroundExploits = {
 	},
 	fnf = {
 		Name = "Funky Friday",
-		Description = "Autoplayer for Funky Friday",
+		Description = "التشغيل التلقائي للعبة Funky Friday ",
 		PlaceIds = {6447798030},
 		PremiumOnly = false,
 		WaitDuration = 9,
@@ -3398,7 +3398,7 @@ BackgroundExploits = {
 	},
 	anomic = {
 		Name = "Anomic",
-		Description = "Script for Anomic",
+		Description = ".",
 		PlaceIds = {4581966615},
 		PremiumOnly = false,
 		WaitDuration = 0,
@@ -3406,7 +3406,7 @@ BackgroundExploits = {
 	},
 	stroller = {
 		Name = "Stroller UI",
-		Description = "Kill and bring players",
+		Description = "قتل وجلب اللاعبين ",
 		PlaceIds = {1662219031},
 		PremiumOnly = false,
 		WaitDuration = 0,
@@ -3414,7 +3414,7 @@ BackgroundExploits = {
 	},
 	WizardTycoon = {
 		Name = "Wizard Tycoon",
-		Description = "No Doors, Infinite Inferno",
+		Description = "لا أبواب، جحيم لانهائي ",
 		PlaceIds = {281489669},
 		PremiumOnly = true,
 		WaitDuration = 0,
@@ -3422,15 +3422,15 @@ BackgroundExploits = {
 	},
 	jailbreak = {
 		Name = "Jailbreak",
-		Description = "Overpowered tools for Jailbreak",
+		Description = "أدوات قوية لكسر الحماية ",
 		PlaceIds = {606849621},
 		PremiumOnly = false,
 		WaitDuration = 0,
 		Loadstring = "https://raw.githubusercontent.com/opBandwidth/_Nexagon_/main/main.lua",
 	},
 	ZombieAttack = {
-		Name = "Autofarm UI",
-		Description = "Overpowered autofarm functionality",
+		Name = "واجهة المستخدم للمزرعة التلقائية ",
+		Description = "تغلبت وظيفة اوتو فارم ",
 		PlaceIds = {1240123653,1632210982},
 		PremiumOnly = false,
 		WaitDuration = 0,
@@ -3445,8 +3445,8 @@ BackgroundExploits = {
 		Loadstring = "https://pastebin.com/raw/ymMn4UdR",
 	},
 	sis = {
-		Name = "Stop It Slender!",
-		Description = "UI for Stop It Slender!",
+		Name = "توقف عن ذلك نحيلة! ",
+		Description = "!واجهة المستخدم لـ Stop It Slender ",
 		PlaceIds = {30869879},
 		PremiumOnly = false,
 		WaitDuration = 0,
@@ -4741,7 +4741,7 @@ function attach(target)
 			hrp.CFrame = hrp2.CFrame
 		until (tool.Parent ~= char or not hrp or not hrp2 or not hrp.Parent or not hrp2.Parent or n > 250) and n > 2
 	else
-		Notify("A tool is required for this function","GothamSemibold",Color3.fromRGB(170, 85, 127))
+		Notify("مطلوب أداة لهذه الوظيفة ","GothamSemibold",Color3.fromRGB(170, 85, 127))
 	end
 end
 
@@ -4751,7 +4751,7 @@ function Teleport(Player)
 		local targetplayer = game.Workspace:FindFirstChild(Player.Name).HumanoidRootPart
 		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(targetplayer.Position.X, targetplayer.Position.Y, targetplayer.Position.Z)
 	else
-		Notify("Player is no longer in game","GothamSemibold",Color3.fromRGB(0, 85, 127))
+		Notify("اللاعب لم يعد في اللعبة ","GothamSemibold",Color3.fromRGB(0, 85, 127))
 	end
 end
 
@@ -4800,7 +4800,7 @@ if not IS_LYNX then
 	mt.__namecall = protect(function(self, ...)
 		method = getnamecallmethod()
 		if method == "Kick" and antikick then
-			Notify("We stopped this game from kicking you locally","GothamSemibold",Color3.fromRGB(0, 153, 112))
+			Notify("لقد أوقفنا هذه اللعبة من ركلك محليًا ","GothamSemibold",Color3.fromRGB(0, 153, 112))
 			wait(9e9)
 			return
 		end
@@ -5218,7 +5218,7 @@ function GlitchTransition()
 	Support.Size = UDim2.new(0.669075966, 0, 0.127589419, 0)
 	Support.ZIndex = 2
 	Support.Font = Enum.Font.GothamSemibold
-	Support.Text = "You found an error! {can't find resource}"
+	Support.Text = "لقد وجدت خطأ ! {can't find resource}"
 	Support.TextColor3 = Color3.fromRGB(235, 235, 235)
 	Support.TextScaled = true
 	Support.TextSize = 14.000
@@ -5261,7 +5261,7 @@ function GlitchTransition()
 	ErrorDesc.Size = UDim2.new(0.733908772, 0, 0.121890925, 0)
 	ErrorDesc.ZIndex = 2
 	ErrorDesc.Font = Enum.Font.GothamSemibold
-	ErrorDesc.Text = "We can make out that the error is due to 'OUTDATED CLIENT'"
+	ErrorDesc.Text = "يمكننا أن نستنتج أن الخطأ يرجع إلى  'OUTDATED CLIENT'"
 	ErrorDesc.TextColor3 = Color3.fromRGB(194, 194, 194)
 	ErrorDesc.TextScaled = true
 	ErrorDesc.TextSize = 14.000
@@ -5383,7 +5383,7 @@ function GlitchTransition()
 	OneMoment.Position = UDim2.new(0.0507893488, 0, 0.59430027, 0)
 	OneMoment.Size = UDim2.new(0.47464776, 0, 0.0428680629, 0)
 	OneMoment.Font = Enum.Font.GothamSemibold
-	OneMoment.Text = "Give us a moment"
+	OneMoment.Text = "أعطنا لحظة "
 	OneMoment.TextColor3 = Color3.fromRGB(195, 195, 195)
 	OneMoment.TextScaled = true
 	OneMoment.TextSize = 14.000
@@ -5654,18 +5654,18 @@ end
 function GetDate()
 	local date = {}
 	local months = {
-		{"January", 31};
-		{"February", 28};
-		{"March", 31};
-		{"April", 30};
-		{"May", 31};
-		{"June", 30};
-		{"July", 31};
-		{"August", 31};
-		{"September", 30};
-		{"October", 31};
-		{"November", 30};
-		{"December", 31};
+		{"يناير ", 31};
+		{"شهر فبراير ", 28};
+		{"شهر فبراير ", 31};
+		{"أبريل ", 30};
+		{"ماي ", 31};
+		{"يونيو ", 30};
+		{"يوليو  ", 31};
+		{"أغسطس", 31};
+		{"سبتمبر ", 30};
+		{"اكتوبر ", 31};
+		{"شهر نوفمبر ", 30};
+		{"ديسمبر ", 31};
 	}
 	local t = tick()
 	date.total = t
@@ -5730,7 +5730,7 @@ else
 end
 Domain.Main.Position = UDim2.new(1.001,0,0.262,0)
 Domain.Main.Shadow.ImageTransparency = 1
-Domain.VersionText.Text = "You're running Domain "..ReleaseType.. " version "..tostring(Release)..[[    ]]
+Domain.VersionText.Text = "أنت تقوم بتشغيل سكربت  "..ReleaseType.. " version "..tostring(Release)..[[    ]]
 Domain.VersionText2.Text = "- "..ReleaseFeature
 Domain.ToggleButton.Rotation = 90
 Domain.ToggleButton.ImageTransparency = 1
@@ -5805,7 +5805,7 @@ if keyenabled and not game.Players.LocalPlayer:IsInGroup(10220078) and not game:
 				tween:Play()
 			end
 		end)
-		Domain.KeyFrame.notice.Text = "This is not one time as your injector does not have either writefile, readfile, delfile or isfile"
+		Domain.KeyFrame.notice.Text = "هذه ليست مرة واحدة لأن الحاقن الخاص بك لا يحتوي على ملف writefile أو readfile أو delfile أو isfile "
 		Domain.KeyFrame.notice.Size = UDim2.new(1.9, 0, 0.246, 0)
 		Domain.KeyFrame.notice.Position = UDim2.new(-0.451, 0,1.054, 0)
 	end
@@ -5818,7 +5818,7 @@ else
 end
 
 Domain.Serverhop.MouseButton1Click:Connect(function()
-	Domain.ServerhopText.Text = "One moment.."
+	Domain.ServerhopText.Text = "لحظة واحدة .."
 	StartServerhop()
 	wait(2)
 	Domain.ServerhopText.Text = "Serverhop"
@@ -5832,7 +5832,7 @@ game.Players.PlayerRemoving:Connect(function(Player)
 		Domain.amount_2.Text = friendsingame.." are in this server"	
 	end
 	if friendsingame == 0 then
-		Domain.amount_2.Text = "None are in this server"	
+		Domain.amount_2.Text = "لا يوجد شيء في هذا سيرفر "	
 	end
 	if Domain.Playerlist:FindFirstChild(Player.Name) then
 		local yoff = Domain.Playerlist:FindFirstChild(Player.Name).Position.Y.Scale
@@ -5928,7 +5928,7 @@ end
 
 
 Domain.CancelShop.MouseButton1Click:Connect(function()
-	Domain.ServerhopAnim.NoticeMessage.Text = " Successfully canceled"
+	Domain.ServerhopAnim.NoticeMessage.Text = " تم الإلغاء بنجاح "
 	Domain.LargeMsg.Text = "Stopped"
 	StopShop = true
 	local transitionInfo = TweenInfo.new(0.25, Enum.EasingStyle.Quint)
@@ -5988,10 +5988,10 @@ game.Players.PlayerAdded:Connect(function(Player)
 	if game.Players.LocalPlayer:IsFriendsWith(Player.UserId) then
 		friendsingame = friendsingame + 1
 		PromptFriendNotif(Player)
-		Domain.amount_2.Text = friendsingame.." are in this game"	
+		Domain.amount_2.Text = friendsingame.."في هذه اللعبة  "	
 	end
 	if friendsingame <= 0 then
-		Domain.amount_2.Text = "None are in this game"	
+		Domain.amount_2.Text = "لا يوجد أحد في هذه اللعبة "	
 	end
 	if table.find(Developers,Player.UserId) or table.find(Admins,Player.UserId) then
 		if game.CreatorId ~= 0 then
@@ -6025,11 +6025,11 @@ Domain.Fly.MouseButton1Click:Connect(function()
 	if plrflying then
 		Unfly()
 		plrflying = false
-		Domain.FlyText.Text = "Fly"
+		Domain.FlyText.Text = "طيران"
 	else
 		Fly()
 		plrflying = true
-		Domain.FlyText.Text = "Unfly"
+		Domain.FlyText.Text = "الغاء طيران"
 	end
 end)
 
@@ -6045,7 +6045,7 @@ Domain.ToggleSound.MouseButton1Click:Connect(function()
 				MusicSound.TimePosition = 0
 				MusicSound.Looped = true
 				MusicSound:Play()
-				Domain.ToggleSound.Text = "Stop"
+				Domain.ToggleSound.Text = "وقف"
 				Notify("Now Playing Music, tap Stop to end","GothamSemibold",Color3.fromRGB(0, 85, 127))
 			elseif Domain.Domain:FindFirstChildWhichIsA("Sound") then
 				Domain.Domain:FindFirstChildWhichIsA("Sound").Volume = 1
@@ -6053,14 +6053,14 @@ Domain.ToggleSound.MouseButton1Click:Connect(function()
 				Domain.Domain:FindFirstChildWhichIsA("Sound").SoundId = "rbxassetid://"..tonumber(Domain.SoundIdBox.Text)
 				Domain.Domain:FindFirstChildWhichIsA("Sound").TimePosition = 0
 				Domain.Domain:FindFirstChildWhichIsA("Sound"):Play()
-				Domain.ToggleSound.Text = "Stop"
-				Notify("Now Playing Music","GothamSemibold",Color3.fromRGB(0, 85, 127))
+				Domain.ToggleSound.Text = "وقف"
+				Notify("الآن تشغيل الموسيقى ","GothamSemibold",Color3.fromRGB(0, 85, 127))
 			end
 		end
 	elseif playing then
 		playing = false
 		if not Domain.Domain:FindFirstChildWhichIsA("Sound") then
-			Notify("Couldn't find music to stop","GothamSemibold",Color3.fromRGB(0, 85, 127))
+			Notify("تعذر العثور على موسيقى لإيقافها ","GothamSemibold",Color3.fromRGB(0, 85, 127))
 			Domain.ToggleSound.Text = "Play"
 		else
 			Domain.ToggleSound.Text = "Play"
@@ -6122,9 +6122,9 @@ while true do
 	local friendsonline = #game.Players.LocalPlayer:GetFriendsOnline()
 	wait(1)
 	if friendsonline == 1 then
-		Domain.amount.Text = "You have "..tostring(friendsonline).." friend online"
+		Domain.amount.Text = "لديك  "..tostring(friendsonline).." صديق على الانترنت "
 	elseif friendsonline == 0 then
-		Domain.amount.Text = "You have no friends online"
+		Domain.amount.Text = "ليس لديك أصدقاء على الانترنت "
 	else
 		Domain.amount.Text = "You have "..tostring(friendsonline).." friends online"
 	end
