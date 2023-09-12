@@ -8,7 +8,7 @@ Domain V2, by Shlex
 
 AutoExecute = false
 if not game:IsLoaded() then
-	local loadtext = "Domain Hub is waiting on the game to load"
+	local loadtext = "سكربت السعودي ينتظر تحميل اللعبة "
 	
 	local dmnwait = Instance.new("ScreenGui")
 	local main = Instance.new("Frame")
@@ -1041,7 +1041,7 @@ Domain.Username.TextStrokeColor3 = Color3.fromRGB(255, 255, 255)
 Domain.Username.TextWrapped = true
 Domain.Username.TextXAlignment = Enum.TextXAlignment.Left
 
-Domain.Teleport.Name = "Teleport"
+Domain.Teleport.Name = "النقل الفوري "
 Domain.Teleport.Parent = Domain.Functionality_2
 Domain.Teleport.BackgroundColor3 = Color3.fromRGB(76, 76, 76)
 Domain.Teleport.BorderSizePixel = 0
@@ -1072,7 +1072,7 @@ Domain.TeleportText.TextWrapped = true
 Domain.UICorner_18.CornerRadius = UDim.new(0, 10)
 Domain.UICorner_18.Parent = Domain.Teleport
 
-Domain.Kill.Name = "Kill"
+Domain.Kill.Name = "قتل"
 Domain.Kill.Parent = Domain.Functionality_2
 Domain.Kill.BackgroundColor3 = Color3.fromRGB(76, 76, 76)
 Domain.Kill.BorderSizePixel = 0
@@ -1094,7 +1094,7 @@ Domain.KillText.Position = UDim2.new(0.287294835, 0, 0.19704923, 0)
 Domain.KillText.Size = UDim2.new(0.417071223, 0, 0.550552428, 0)
 Domain.KillText.ZIndex = 1004
 Domain.KillText.Font = Enum.Font.GothamSemibold
-Domain.KillText.Text = "Kill"
+Domain.KillText.Text = "قتل"
 Domain.KillText.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.KillText.TextScaled = true
 Domain.KillText.TextSize = 14.000
@@ -2614,7 +2614,7 @@ Domain.SoundIdBox.BorderSizePixel = 0
 Domain.SoundIdBox.Position = UDim2.new(0.172132269, 0, 0.175068468, 0)
 Domain.SoundIdBox.Size = UDim2.new(0.662047207, 0, 0.253864467, 0)
 Domain.SoundIdBox.Font = Enum.Font.GothamSemibold
-Domain.SoundIdBox.PlaceholderText = "SoundId"
+Domain.SoundIdBox.PlaceholderText = "صوت اي دي"
 Domain.SoundIdBox.Text = ""
 Domain.SoundIdBox.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.SoundIdBox.TextSize = 18.000
@@ -2629,7 +2629,7 @@ Domain.ToggleSound.BorderSizePixel = 0
 Domain.ToggleSound.Position = UDim2.new(0.27805981, 0, 0.506281495, 0)
 Domain.ToggleSound.Size = UDim2.new(0.44459796, 0, 0.314727038, 0)
 Domain.ToggleSound.Font = Enum.Font.GothamBold
-Domain.ToggleSound.Text = "Play"
+Domain.ToggleSound.Text = "شغل"
 Domain.ToggleSound.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.ToggleSound.TextSize = 20.000
 
@@ -2672,7 +2672,7 @@ Domain.text_3.BorderSizePixel = 0
 Domain.text_3.Position = UDim2.new(0.0500942469, 0, 0.0595090203, 0)
 Domain.text_3.Size = UDim2.new(0.870617807, 0, 0.0596955419, 0)
 Domain.text_3.Font = Enum.Font.GothamBold
-Domain.text_3.Text = "Supported Executors"
+Domain.text_3.Text = "هاكات المدعومة "
 Domain.text_3.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.text_3.TextScaled = true
 Domain.text_3.TextSize = 14.000
@@ -2763,7 +2763,7 @@ Domain.gametext.BorderSizePixel = 0
 Domain.gametext.Position = UDim2.new(0.0372001939, 0, 0.0699851587, 0)
 Domain.gametext.Size = UDim2.new(0.797733009, 0, 0.105199791, 0)
 Domain.gametext.Font = Enum.Font.GothamBold
-Domain.gametext.Text = "Looks like you're playing $gamename"
+Domain.gametext.Text = "انت تلعب $gamename"
 Domain.gametext.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.gametext.TextScaled = true
 Domain.gametext.TextSize = 14.000
