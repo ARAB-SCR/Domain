@@ -904,7 +904,7 @@ Domain.Credits.Position = UDim2.new(0.042754259, 0, 0.945035338, 0)
 Domain.Credits.Size = UDim2.new(0.194060624, 0, 0.0415861197, 0)
 Domain.Credits.ZIndex = 1002
 Domain.Credits.Font = Enum.Font.GothamBold
-Domain.Credits.Text = "Domain V2"
+Domain.Credits.Text = "سكربت سعودية"
 Domain.Credits.TextColor3 = Color3.fromRGB(122, 122, 122)
 Domain.Credits.TextScaled = true
 Domain.Credits.TextSize = 14.000
@@ -1033,7 +1033,7 @@ Domain.Username.Position = UDim2.new(0.299553424, 0, 0.115652815, 0)
 Domain.Username.Size = UDim2.new(0.619387209, 0, 0.036586754, 0)
 Domain.Username.ZIndex = 1002
 Domain.Username.Font = Enum.Font.GothamBold
-Domain.Username.Text = "Username"
+Domain.Username.Text = "اسم"
 Domain.Username.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.Username.TextScaled = true
 Domain.Username.TextSize = 14.000
@@ -1211,7 +1211,7 @@ Domain.Functionalitytext.Position = UDim2.new(0.0399247706, 0, 0.261915267, 0)
 Domain.Functionalitytext.Size = UDim2.new(0.2865071, 0, 0.0484862812, 0)
 Domain.Functionalitytext.ZIndex = 1002
 Domain.Functionalitytext.Font = Enum.Font.GothamSemibold
-Domain.Functionalitytext.Text = "FUNCTIONALITY"
+Domain.Functionalitytext.Text = "اشياء تقدر تسويه في هذا الاعب"
 Domain.Functionalitytext.TextColor3 = Color3.fromRGB(122, 122, 122)
 Domain.Functionalitytext.TextScaled = true
 Domain.Functionalitytext.TextSize = 14.000
@@ -1790,7 +1790,7 @@ Domain.Title_5.Position = UDim2.new(0.0583828762, 0, 0.0188631155, 0)
 Domain.Title_5.Size = UDim2.new(0.194060922, 0, 0.0415861234, 0)
 Domain.Title_5.ZIndex = 1002
 Domain.Title_5.Font = Enum.Font.GothamBold
-Domain.Title_5.Text = "Players"
+Domain.Title_5.Text = "اللاعبين "
 Domain.Title_5.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.Title_5.TextScaled = true
 Domain.Title_5.TextSize = 14.000
@@ -1935,7 +1935,7 @@ Domain.Credits_4.Position = UDim2.new(0.042754259, 0, 0.945035338, 0)
 Domain.Credits_4.Size = UDim2.new(0.194060624, 0, 0.0415861197, 0)
 Domain.Credits_4.ZIndex = 1002
 Domain.Credits_4.Font = Enum.Font.GothamBold
-Domain.Credits_4.Text = "Domain V2"
+Domain.Credits_4.Text = "سكربت سعودية"
 Domain.Credits_4.TextColor3 = Color3.fromRGB(122, 122, 122)
 Domain.Credits_4.TextScaled = true
 Domain.Credits_4.TextSize = 14.000
@@ -2021,7 +2021,7 @@ Domain.Title_6.Position = UDim2.new(0.0399028361, 0, 0.0195726734, 0)
 Domain.Title_6.Size = UDim2.new(0.327975392, 0, 0.0398667008, 0)
 Domain.Title_6.ZIndex = 1002
 Domain.Title_6.Font = Enum.Font.GothamBold
-Domain.Title_6.Text = "فهم"
+Domain.Title_6.Text = "وش ذا سكربت؟"
 Domain.Title_6.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.Title_6.TextScaled = true
 Domain.Title_6.TextSize = 14.000
@@ -2087,7 +2087,7 @@ Domain.About_3.Position = UDim2.new(0.0371906646, 0, 0.25850603, 0)
 Domain.About_3.Size = UDim2.new(0.909608364, 0, 0.0326033197, 0)
 Domain.About_3.ZIndex = 1002
 Domain.About_3.Font = Enum.Font.GothamBlack
-Domain.About_3.Text = "Discord Server"
+Domain.About_3.Text = "سيرفر ديسكورد للدعم فني"
 Domain.About_3.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.About_3.TextScaled = true
 Domain.About_3.TextSize = 14.000
@@ -2105,7 +2105,7 @@ Domain.Link.Position = UDim2.new(0.0371906608, 0, 0.295184523, 0)
 Domain.Link.Size = UDim2.new(0.620413125, 0, 0.0326033197, 0)
 Domain.Link.ZIndex = 1002
 Domain.Link.Font = Enum.Font.GothamBold
-Domain.Link.Text = "discord.gg/jyySpgkFSp"
+Domain.Link.Text = "https://discord.gg/YvCUd2rFQB"
 Domain.Link.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.Link.TextScaled = true
 Domain.Link.TextSize = 14.000
@@ -2141,7 +2141,7 @@ Domain.About_5.Position = UDim2.new(0.0428941995, 0, 0.876436234, 0)
 Domain.About_5.Size = UDim2.new(0.829617858, 0, 0.0626301542, 0)
 Domain.About_5.ZIndex = 1002
 Domain.About_5.Font = Enum.Font.GothamBlack
-Domain.About_5.Text = "Some features use code from Infinite Yield by Edge"
+Domain.About_5.Text = "شكرا لكم"
 Domain.About_5.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.About_5.TextScaled = true
 Domain.About_5.TextSize = 14.000
@@ -2530,7 +2530,7 @@ Domain.link.Position = UDim2.new(0.0500941612, 0, 0.465457529, 0)
 Domain.link.Size = UDim2.new(0.859486938, 0, 0.108649939, 0)
 Domain.link.ZIndex = 100
 Domain.link.Font = Enum.Font.GothamSemibold
-Domain.link.Text = "discord.gg/2enfwef"
+Domain.link.Text = ""
 Domain.link.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.link.TextScaled = true
 Domain.link.TextSize = 14.000
@@ -4492,12 +4492,12 @@ function Execute(String)
 	if loadstring then
 		loadstring(game:HttpGet(String, true))()
 	else
-		Notify("You don't have the loadstring function! Use a different executor.","GothamSemibold",Color3.fromRGB(255, 163, 5))
+		Notify("ليس لديك وظيفة سلسلة التحميل! استخدم منفذًا مختلفًا .","GothamSemibold",Color3.fromRGB(255, 163, 5))
 	end
 end
 
 function LoadDomainV1()
-	Execute("https://raw.githubusercontent.com/shlexsoftworks/mainDomain/main/source")
+	Execute("loadstring(game:HttpGet('https://pastebin.com/raw/NaygGzGd'))()")
 end
 
 Domain.ToggleButton.MouseButton1Click:Connect(function()
@@ -4774,10 +4774,10 @@ end
 				end
 
 			else
-			Notify("You need to have an item in your inventory to kill this player","GothamSemibold",Color3.fromRGB(0, 85, 127))
+			Notify("يجب أن يكون لديك عنصر في مخزونك لقتل هذا اللاعب ","GothamSemibold",Color3.fromRGB(0, 85, 127))
 			end
 		else
-			Notify("Player is no longer in game","GothamSemibold",Color3.fromRGB(0, 85, 127))
+			Notify("اللاعب لم يعد في اللعبة ","GothamSemibold",Color3.fromRGB(0, 85, 127))
 		end
 	end
 
