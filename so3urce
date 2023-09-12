@@ -609,7 +609,7 @@ Domain.Content.Position = UDim2.new(0.0535893962, 0, 0.0945718586, 0)
 Domain.Content.Size = UDim2.new(0.51844418, 0, 0.139617905, 0)
 Domain.Content.ZIndex = 100
 Domain.Content.Font = Enum.Font.GothamSemibold
-Domain.Content.Text = "Domain has found an exploit for this specific game."
+Domain.Content.Text = "لقد وجد سكربت استغلالًا لهذه اللعبة تحديدًا ."
 Domain.Content.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.Content.TextScaled = true
 Domain.Content.TextSize = 14.000
@@ -625,7 +625,7 @@ Domain.ExploitName.Position = UDim2.new(0.0500167944, 0, 0.307043254, 0)
 Domain.ExploitName.Size = UDim2.new(0.522016823, 0, 0.0493071787, 0)
 Domain.ExploitName.ZIndex = 100
 Domain.ExploitName.Font = Enum.Font.GothamBold
-Domain.ExploitName.Text = "Infinite Cash"
+Domain.ExploitName.Text = "النقدية اللانهائية "
 Domain.ExploitName.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.ExploitName.TextScaled = true
 Domain.ExploitName.TextSize = 14.000
@@ -641,7 +641,7 @@ Domain.Description.Position = UDim2.new(0.0500167683, 0, 0.3572101, 0)
 Domain.Description.Size = UDim2.new(0.737336934, 0, 0.0967480093, 0)
 Domain.Description.ZIndex = 100
 Domain.Description.Font = Enum.Font.GothamSemibold
-Domain.Description.Text = "It can make you have infinite cash"
+Domain.Description.Text = "يمكن أن يجعلك تمتلك نقودًا لا حصر لها "
 Domain.Description.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.Description.TextScaled = true
 Domain.Description.TextSize = 14.000
@@ -671,7 +671,7 @@ Domain.ExecuteText.Position = UDim2.new(0.0680037364, 0, 0.257072449, 0)
 Domain.ExecuteText.Size = UDim2.new(0.851055086, 0, 0.473123908, 0)
 Domain.ExecuteText.ZIndex = 100
 Domain.ExecuteText.Font = Enum.Font.GothamBold
-Domain.ExecuteText.Text = "Execute"
+Domain.ExecuteText.Text = "ينفذ "
 Domain.ExecuteText.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.ExecuteText.TextScaled = true
 Domain.ExecuteText.TextSize = 14.000
@@ -821,7 +821,7 @@ Domain.ExploitName_2.Position = UDim2.new(0.0512574017, 0, 0.226007849, 0)
 Domain.ExploitName_2.Size = UDim2.new(0.451896131, 0, 0.208032161, 0)
 Domain.ExploitName_2.ZIndex = 1003
 Domain.ExploitName_2.Font = Enum.Font.GothamBold
-Domain.ExploitName_2.Text = "Exploit Name"
+Domain.ExploitName_2.Text = "اسم الاستغلال "
 Domain.ExploitName_2.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.ExploitName_2.TextScaled = true
 Domain.ExploitName_2.TextSize = 14.000
@@ -838,7 +838,7 @@ Domain.Description_2.Position = UDim2.new(0.0512574017, 0, 0.464571714, 0)
 Domain.Description_2.Size = UDim2.new(0.565016568, 0, 0.183530971, 0)
 Domain.Description_2.ZIndex = 1003
 Domain.Description_2.Font = Enum.Font.GothamBold
-Domain.Description_2.Text = "Really Brief Description"
+Domain.Description_2.Text = "وصف"
 Domain.Description_2.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.Description_2.TextScaled = true
 Domain.Description_2.TextSize = 14.000
@@ -870,7 +870,7 @@ Domain.LoadText.Position = UDim2.new(0.322250009, 0, 0.162156954, 0)
 Domain.LoadText.Size = UDim2.new(0.344117135, 0, 0.676972866, 0)
 Domain.LoadText.ZIndex = 1004
 Domain.LoadText.Font = Enum.Font.GothamBold
-Domain.LoadText.Text = "Load"
+Domain.LoadText.Text = "تحميل"
 Domain.LoadText.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.LoadText.TextScaled = true
 Domain.LoadText.TextSize = 14.000
@@ -990,7 +990,7 @@ Domain.Title_3.Position = UDim2.new(0.0399028361, 0, 0.0195726734, 0)
 Domain.Title_3.Size = UDim2.new(0.327975392, 0, 0.0398667008, 0)
 Domain.Title_3.ZIndex = 1002
 Domain.Title_3.Font = Enum.Font.GothamBold
-Domain.Title_3.Text = "About Player"
+Domain.Title_3.Text = "تعريف اللاعب "
 Domain.Title_3.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.Title_3.TextScaled = true
 Domain.Title_3.TextSize = 14.000
@@ -1131,7 +1131,7 @@ Domain.title.Position = UDim2.new(-0.000592667609, 0, -0.00140992925, 0)
 Domain.title.Size = UDim2.new(0.619888186, 0, 0.0549206287, 0)
 Domain.title.ZIndex = 1004
 Domain.title.Font = Enum.Font.GothamSemibold
-Domain.title.Text = "GROUP INFORMATION"
+Domain.title.Text = "معلومات المجموعة "
 Domain.title.TextColor3 = Color3.fromRGB(122, 122, 122)
 Domain.title.TextScaled = true
 Domain.title.TextSize = 14.000
@@ -1227,7 +1227,7 @@ Domain.areadata.Position = UDim2.new(0.0382106751, 0, 0.916256785, 0)
 Domain.areadata.Size = UDim2.new(0.641611636, 0, 0.0282887891, 0)
 Domain.areadata.ZIndex = 1005
 Domain.areadata.Font = Enum.Font.GothamSemibold
-Domain.areadata.Text = "United States"
+Domain.areadata.Text = "المملكة عربيه السعودية"
 Domain.areadata.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.areadata.TextScaled = true
 Domain.areadata.TextSize = 14.000
@@ -1243,7 +1243,7 @@ Domain.areatitle.Position = UDim2.new(0.0382106751, 0, 0.885008931, 0)
 Domain.areatitle.Size = UDim2.new(0.399789095, 0, 0.0316002294, 0)
 Domain.areatitle.ZIndex = 1005
 Domain.areatitle.Font = Enum.Font.GothamBold
-Domain.areatitle.Text = "Region"
+Domain.areatitle.Text = "منطقة "
 Domain.areatitle.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.areatitle.TextScaled = true
 Domain.areatitle.TextSize = 14.000
@@ -1259,7 +1259,7 @@ Domain.DomainRole.Position = UDim2.new(0.299553484, 0, 0.153755873, 0)
 Domain.DomainRole.Size = UDim2.new(0.619387209, 0, 0.0257129651, 0)
 Domain.DomainRole.ZIndex = 1002
 Domain.DomainRole.Font = Enum.Font.GothamSemibold
-Domain.DomainRole.Text = "Beta Tester"
+Domain.DomainRole.Text = "تجريبي"
 Domain.DomainRole.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.DomainRole.TextScaled = true
 Domain.DomainRole.TextSize = 14.000
@@ -1915,7 +1915,7 @@ Domain.Search.Size = UDim2.new(0.45038411, 0, 0.0705203265, 0)
 Domain.Search.Visible = false
 Domain.Search.ZIndex = 1004
 Domain.Search.Font = Enum.Font.GothamSemibold
-Domain.Search.PlaceholderText = "Search"
+Domain.Search.PlaceholderText = "يبحث "
 Domain.Search.Text = ""
 Domain.Search.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.Search.TextSize = 25.000
@@ -2475,7 +2475,7 @@ Domain.amount.BorderSizePixel = 0
 Domain.amount.Position = UDim2.new(0.063328214, 0, 0.576994181, 0)
 Domain.amount.Size = UDim2.new(0.582208514, 0, 0.309121609, 0)
 Domain.amount.Font = Enum.Font.GothamBold
-Domain.amount.Text = "You have 10 friends online"
+Domain.amount.Text = "لديك  10 أصدقاء على الانترنت "
 Domain.amount.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.amount.TextScaled = true
 Domain.amount.TextSize = 14.000
@@ -2510,7 +2510,7 @@ Domain.text.BorderSizePixel = 0
 Domain.text.Position = UDim2.new(0.0500941612, 0, 0.0779062882, 0)
 Domain.text.Size = UDim2.new(0.74847132, 0, 0.350369573, 0)
 Domain.text.Font = Enum.Font.GothamBold
-Domain.text.Text = "Enjoying Domain? Join our Discord for updates and news on the latest releases"
+Domain.text.Text = "سكربت متطور يرحب بكم"
 Domain.text.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.text.TextScaled = true
 Domain.text.TextSize = 14.000
@@ -2553,7 +2553,7 @@ Domain.amount_2.BorderSizePixel = 0
 Domain.amount_2.Position = UDim2.new(0.059404593, 0, 0.359369487, 0)
 Domain.amount_2.Size = UDim2.new(0.871122241, 0, 0.334057689, 0)
 Domain.amount_2.Font = Enum.Font.GothamSemibold
-Domain.amount_2.Text = "nil are in this game"
+Domain.amount_2.Text = "nil في هذه اللعبة "
 Domain.amount_2.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.amount_2.TextScaled = true
 Domain.amount_2.TextSize = 14.000
@@ -2578,7 +2578,7 @@ Domain.text_2.BorderSizePixel = 0
 Domain.text_2.Position = UDim2.new(0.0500942022, 0, 0.0779060945, 0)
 Domain.text_2.Size = UDim2.new(0.74847132, 0, 0.104409643, 0)
 Domain.text_2.Font = Enum.Font.GothamBold
-Domain.text_2.Text = "Client Music"
+Domain.text_2.Text = "موسيقى العميل "
 Domain.text_2.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.text_2.TextScaled = true
 Domain.text_2.TextSize = 14.000
@@ -2857,7 +2857,7 @@ Domain.ExecTitle.Position = UDim2.new(0.0383638144, 0, 0.286305189, 0)
 Domain.ExecTitle.Size = UDim2.new(0.768913567, 0, 0.438426852, 0)
 Domain.ExecTitle.ZIndex = 1003
 Domain.ExecTitle.Font = Enum.Font.GothamBold
-Domain.ExecTitle.Text = "Executor"
+Domain.ExecTitle.Text = "المنفذ "
 Domain.ExecTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.ExecTitle.TextScaled = true
 Domain.ExecTitle.TextSize = 14.000
@@ -2906,7 +2906,7 @@ Domain.CLogTitle.Position = UDim2.new(0.0241448879, 0, 0.259758025, 0)
 Domain.CLogTitle.Size = UDim2.new(0.371459812, 0, 0.416741461, 0)
 Domain.CLogTitle.ZIndex = 1005
 Domain.CLogTitle.Font = Enum.Font.GothamBold
-Domain.CLogTitle.Text = "Chat logs"
+Domain.CLogTitle.Text = "سجلات الدردشة "
 Domain.CLogTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.CLogTitle.TextScaled = true
 Domain.CLogTitle.TextSize = 14.000
@@ -3084,7 +3084,7 @@ Domain.LargeMsg.Position = UDim2.new(0.0203074999, 0, 0.0379411466, 0)
 Domain.LargeMsg.Size = UDim2.new(0.272888154, 0, 0.0347569771, 0)
 Domain.LargeMsg.ZIndex = 1000
 Domain.LargeMsg.Font = Enum.Font.GothamBold
-Domain.LargeMsg.Text = "Serverhop"
+Domain.LargeMsg.Text = "سيرفر هوب "
 Domain.LargeMsg.TextColor3 = Color3.fromRGB(255, 255, 255)
 Domain.LargeMsg.TextScaled = true
 Domain.LargeMsg.TextSize = 14.000
@@ -3264,8 +3264,8 @@ keyenabled = false
 NotificationDuration = 7
 ReleaseType = "Release"
 Release = 1.4
-ReleaseFeature = "Discord Update"
-DiscordLink = "discord.gg/BQ5tjBEhw5"
+ReleaseFeature = "تحديث ديسكورد "
+DiscordLink = "https://discord.gg/YvCUd2rFQB"
 DomainPass = 16104485
 
 bindable = Instance.new("BindableEvent")
@@ -3323,7 +3323,7 @@ customtitles = {
 	[3] = {title="Magnius Owner, Domain Staff",userids={83381940}},
 	[4] = {title="The longest fellow",userids={1224384865}},
 	[5] = {title="This guy has a 2 incher",userids={506566266}},
-	[6] = {title="Fucked your mother hard",userids={226177289}},
+	[6] = {title=".",userids={226177289}},
 	[7] = {title="Got scammed",userids={420765}},
 	[8] = {title="Gamer",userids={44792045}},
 	[9] = {title="Early Member, Domain Staff",userids={415918665}},
@@ -3335,7 +3335,7 @@ Admins = {669686927,76237634,89779573,37962366,1984655763,262635913,1015797562,7
 Showcasers = {434928087,1598108139,2325926644,254782537,261882701,839408951,2403423571,941788712}
 Banned = {17241083,26892987,20655358,10516000,660242324,225493776}
 Developers = {304343782}
-loldiscord = {"dude this is so cool","Domain","showcase this","watch this space","bruh","use magnius - rexi","domain winning","make it trending on twitter","oops","if this isnt in your auto exec, i will find you","preparing for lift off","dababy car","underrated","sirmeme make a video on domain hub","you know how i be, i just poopin","this table is long dude","discord.gg/shlex","boost the server damn it","pog champ","imagine trying to crack domain hub"}
+loldiscord = {"المتأنق هذا هو بارد جدا ","Domain","عرض هذا ","انظر لهذه المساحة ","يا رجل ","use magnius - rexi","domain winning","make it trending on twitter","oops","if this isnt in your auto exec, i will find you","preparing for lift off","dababy car","underrated","sirmeme make a video on domain hub","you know how i be, i just poopin","this table is long dude","discord.gg/shlex","boost the server damn it","pog champ","imagine trying to crack domain hub"}
 
 Beta = {0}
 AntiExploits = {
@@ -3438,7 +3438,7 @@ BackgroundExploits = {
 	},
 	fencingscripts = {
 		Name = "Fencing",
-		Description = "An example, to show this feature",
+		Description = "مثال لتوضيح هذه الخاصية ",
 		PlaceIds = {5793474642,12109643},
 		PremiumOnly = false,
 		WaitDuration = 0,
@@ -3454,7 +3454,7 @@ BackgroundExploits = {
 	},
 	doomspire = {
 		Name = "Doomspire UI",
-		Description = "Smart Doomspire UI",
+		Description = "واجهة المستخدم الذكية" ,
 		PlaceIds = {1215581239},
 		PremiumOnly = false,
 		WaitDuration = 0,
@@ -3462,7 +3462,7 @@ BackgroundExploits = {
 	},
 	animebattlearena = {
 		Name = "ABA UI",
-		Description = "UI for Anime Battle Arena",
+		Description = "Anime Battle Arena  واجهة المستخدم لـ  ",
 		PlaceIds = {1458767429},
 		PremiumOnly = false,
 		WaitDuration = 0,
@@ -3470,7 +3470,7 @@ BackgroundExploits = {
 	},
 	Ragdolleng = {
 		Name = "Ragdoll Engine",
-		Description = "Very useful UI for Ragdoll Engine",
+		Description = "واجهة مستخدم مفيدة جدًا  ",
 		PlaceIds = {2041312716},
 		PremiumOnly = false,
 		WaitDuration = 0,
@@ -3478,7 +3478,7 @@ BackgroundExploits = {
 	},
 	cafegameslol = {
 		Name = "Barrier Remover",
-		Description = "Bypass many cafe barriers",
+		Description = "تجاوز العديد من حواجز المقاهي ",
 		PlaceIds = {1217895158,3243063589,718328620,610172644,738548299,5580097107,323925323,3522042406,2075082966},
 		PremiumOnly = false,
 		WaitDuration = 0,
@@ -3486,7 +3486,7 @@ BackgroundExploits = {
 	},
 	DarkHub = {
 		Name = "Dark Hub",
-		Description = "Incredible script for many games",
+		Description = " سكربت للعديد من الألعاب ",
 		PlaceIds = {286090429,2377868063,263761432,292439477,3233893879,3527629287,2555870920,5081773298},
 		PremiumOnly = false,
 		WaitDuration = 0,
@@ -3494,7 +3494,7 @@ BackgroundExploits = {
 	},
 	madcity = {
 		Name = "Mad City",
-		Description = "UI for Mad City",
+		Description = "واجهة المستخدم لمدينة ماد ",
 		PlaceIds = {1224212277},
 		PremiumOnly = false,
 		WaitDuration = 0,
@@ -3502,7 +3502,7 @@ BackgroundExploits = {
 	},
 	myrestaurant = {
 		Name = "My Restaurant",
-		Description = "Useful autofarm interface",
+		Description = "مزرعة تلقائية مفيدة ",
 		PlaceIds = {4490140733},
 		PremiumOnly = false,
 		WaitDuration = 0,
@@ -3510,15 +3510,15 @@ BackgroundExploits = {
 	},
 	dday = {
 		Name = "D-DAY",
-		Description = "UI for D-DAY",
+		Description = "واجهة المستخدم لـ D-DAY ",
 		PlaceIds = {901793731},
 		PremiumOnly = false,
 		WaitDuration = 0,
 		Loadstring = "https://raw.githubusercontent.com/iQAIRHUB/Project-Ripple/main/D-DAY/V3.0.3",
 	},
 	beesim = {
-		Name = "BSS Auto-farm",
-		Description = "Autofarm the bees lol",
+		Name = "مزرعة السيارات BSS ",
+		Description = "تربية النحل تلقائيًا لول ",
 		PlaceIds = {1537690962},
 		PremiumOnly = false,
 		WaitDuration = 0,
@@ -3526,15 +3526,15 @@ BackgroundExploits = {
 	},
 	ninjalegends = {
 		Name = "Autofarm UI",
-		Description = "Very good autofarm for Ninja Legends",
+		Description = "Ninja Legends مزرعة تلقائية جيدة جدًا لـماب  ",
 		PlaceIds = {3956818381},
 		PremiumOnly = false,
 		WaitDuration = 0,
 		Loadstring = "https://pastebin.com/raw/Q39hYJ8V",
 	},
 	autorapbatt = {
-		Name = "Auto RB UI",
-		Description = "Rap like a beast",
+		Name = "واجهة المستخدم RB التلقائية ",
+		Description = "موسيقى الراب مثل الوحش ",
 		PlaceIds = {579955134},
 		PremiumOnly = false,
 		WaitDuration = 0,
@@ -3545,32 +3545,32 @@ BackgroundExploits = {
 UniversalExploits = {
 	
 	CLOVR = {
-		Name = "CloVR (R6 Only)",
-		Author = "Abacaxl",
+		Name = " VR يخليك   (R6 فقط)",
+		Author = "أباكاكسل ",
 		Colour = Color3.fromRGB(85, 85, 127),
 		Code = "https://pastebin.com/raw/4iTCQwHd",
 	},
 	expchat = {
-		Name = "Exploiter Chat",
-		Author = "Sheenieboy",
+		Name = "دردشة المستغل ",
+		Author = "شينيبوي",
 		Colour = Color3.fromRGB(48, 129, 200),
 		Code = "https://raw.githubusercontent.com/sheenieboy/ExploiterChat/master/ExploiterChat",
 	},
 	cmdx = {
-		Name = "CMD-X",
-		Author = "Various Developers",
+		Name = "كمد-X ",
+		Author = "كمد",
 		Colour = Color3.fromRGB(55, 95, 97),
 		Code = "https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source",
 	},
 	InfiniteYield = {
-		Name = "Infinite Yield",
-		Author = "Edge",
+		Name = " سكربت ادمن,
+		Author = "ادمن",
 		Colour = Color3.fromRGB(48, 48, 48),
 		Code = "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",	
 	},
 	ezhub = {
-		Name = "EZHub",
-		Author = "EZ Industries",
+		Name = "ازي hub ",
+		Author = "صناعات إي زي ",
 		Colour = Color3.fromRGB(0, 85, 127),
 		Code = "https://raw.githubusercontent.com/debug420/Ez-Industries-Launcher-Data/master/Launcher.lua"
 	},
@@ -4205,7 +4205,7 @@ function StartUnfunctionals()
 	Domain.KeyFrame.Visible = false
 	Domain.Main.Position = UDim2.new(1.001,0,0.262,0)
 	Domain.Main.Shadow.ImageTransparency = 1
-	Domain.VersionText.Text = "You're running Domain "..ReleaseType.. " version "..tostring(Release)..[[    ]]
+	Domain.VersionText.Text = "أنت تقوم بتشغيل سكربت  "..ReleaseType.. " version "..tostring(Release)..[[    ]]
 	Domain.VersionText2.Text = "- "..ReleaseFeature
 	Domain.ToggleButton.Rotation = 90
 	Domain.ToggleButton.ImageTransparency = 1
@@ -4223,7 +4223,7 @@ function StartUnfunctionals()
 		expl.BackgroundColor3 = exploit.Colour
 		expl.LoadExploit.MouseButton1Click:Connect(function()
 			Execute(exploit.Code)
-			Notify("Initialising "..exploit.Name,"GothamSemibold",exploit.Colour)
+			Notify("التهيئة  "..exploit.Name,"GothamSemibold",exploit.Colour)
 		end)
 	end
 	
@@ -4533,7 +4533,7 @@ end
 
 
 Domain.Rejoin.MouseButton1Click:Connect(function()
-	Domain.RejoinText.Text = "Hold on.."
+	Domain.RejoinText.Text = "انتضر  قليل.."
 	RejoinServer()
 	wait(3)
 	Domain.RejoinText.Text = "Rejoin"
@@ -4759,7 +4759,7 @@ end
 		if game.Players:FindFirstChild(Player.Name) then
 			local LocalPlayer = game.Players.LocalPlayer
 			if tools() then
-			Notify("Attempting to kill "..Player.Name,"GothamSemibold",Color3.fromRGB(0, 85, 127))
+			Notify("محاولة القتل  "..Player.Name,"GothamSemibold",Color3.fromRGB(0, 85, 127))
 				if Player ~= nil then
 
 					local NormPos = getRoot(LocalPlayer.Character).CFrame
@@ -4915,7 +4915,7 @@ function StartServerhop()
 	Domain.CancelShop.BackgroundTransparency = 1
 	Domain.CancelShop.TextTransparency = 1
 	Domain.NoticeMessage.TextTransparency = 1
-	Domain.ServerhopAnim.NoticeMessage.Text = " Give us a second while we find the best server for you"
+	Domain.ServerhopAnim.NoticeMessage.Text = " امنحنا لحظة حتى نجد أفضل خادم لك "
 	Domain.LargeMsg.Text = "Serverhop"
 	Domain.ShlexLogo.ImageTransparency = 1
 	Domain.SmallMessage.TextTransparency = 1
@@ -4987,7 +4987,7 @@ function StartServerhop()
 		if StopShop then
 			return
 		end
-		Domain.ServerhopAnim.NoticeMessage.Text = " We couldn't find a server"
+		Domain.ServerhopAnim.NoticeMessage.Text = " لم نتمكن من العثور على الخادم "
 		Domain.LargeMsg.Text = "Error"
 
 		CloseShopMenu()
@@ -4995,7 +4995,7 @@ function StartServerhop()
 		if StopShop then
 			return
 		end
-		Domain.ServerhopAnim.NoticeMessage.Text = "Domain found a server for you, give us a moment"
+		Domain.ServerhopAnim.NoticeMessage.Text = "تم العثور على سيرفر لك، امنحنا لحظة "
 		Domain.LargeMsg.Text = "Server found"
 		Domain.NoticeMessage.TextXAlignment = Enum.TextXAlignment.Center
 		local transitionInfo = TweenInfo.new(0.25, Enum.EasingStyle.Quint)
@@ -5011,7 +5011,7 @@ function StartServerhop()
 		wait(3)
 		local check2 = Serverhop()
 		if check2 == "Protocol:cantfind" then
-			Domain.ServerhopAnim.NoticeMessage.Text = " We couldn't find a server"
+			Domain.ServerhopAnim.NoticeMessage.Text = " لم نتمكن من العثور على سيرفر "
 			Domain.LargeMsg.Text = "Error"
 			CloseShopMenu()
 		end
@@ -5043,23 +5043,23 @@ function OpenAboutPlayer(Player)
 		end
 		Domain.DomainRole.Visible = false
 		if table.find(Beta,Player.UserId) then
-			Domain.DomainRole.Text = "Beta Tester"
+			Domain.DomainRole.Text = "اختبار بيتا "
 			Domain.DomainRole.Visible = true
 		end
 		if table.find(Showcasers,Player.UserId) then
-			Domain.DomainRole.Text = "Showcaser"
+			Domain.DomainRole.Text = "عارض "
 			Domain.DomainRole.Visible = true
 		end
 		if Player:IsInGroup(10220078) then
-			Domain.DomainRole.Text = "Domain Premium"
+			Domain.DomainRole.Text = "برايم"
 			Domain.DomainRole.Visible = true
 		end
 		if table.find(Admins,Player.UserId) then
-			Domain.DomainRole.Text = "Domain Staff"
+			Domain.DomainRole.Text = "الادراه"
 			Domain.DomainRole.Visible = true
 		end
 		if table.find(Developers,Player.UserId) then
-			Domain.DomainRole.Text = "Domain Developer"
+			Domain.DomainRole.Text = "مطور"
 			Domain.DomainRole.Visible = true
 		end
 		for _, customtitle in ipairs(customtitles) do
@@ -5072,7 +5072,7 @@ function OpenAboutPlayer(Player)
 		end
 		Domain.PlayerInfoFrame.Functionality.Avatar.Image = game:GetService("Players"):GetUserThumbnailAsync(Player.UserId,Enum.ThumbnailType.HeadShot,Enum.ThumbnailSize.Size420x420)
 	else
-		Notify("Player has left server","GothamSemibold",Color3.fromRGB(212, 20, 20))
+		Notify("لقد غادر اللاعب سيرفر "),"GothamSemibold",Color3.fromRGB(212, 20, 20))
 	end
 end
 
@@ -5091,7 +5091,7 @@ function PromptExploit(Exploit)
 			
 				Domain.Other.ExploitFound:TweenPosition(UDim2.new(-26.5,0,0.299,0),"In","Quint",0.4)
 				pexploit = false
-				Notify("Loading "..Exploit.Name..", this may bug for a few seconds in some cases","GothamSemibold",Color3.fromRGB(0, 95, 139))
+				Notify("تحميل "..Exploit.Name..", قد يكون هذا خطأ لبضع ثوان في بعض الحالات ","GothamSemibold",Color3.fromRGB(0, 95, 139))
 			Execute(Exploit.Loadstring)
 			end
 		end)
@@ -5122,7 +5122,7 @@ function RePromptExploit(Exploit)
 		if pexploit then
 			Domain.Other.ExploitFound:TweenPosition(UDim2.new(-26.5,0,0.299,0),"In","Quint",0.4)
 			pexploit = false
-			Notify("Loading "..Exploit.Name,"GothamSemibold",Color3.fromRGB(52, 52, 52))
+			Notify("تحميل "..Exploit.Name,"GothamSemibold",Color3.fromRGB(52, 52, 52))
 			Execute(Exploit.Loadstring)
 		end
 	end)
@@ -5200,7 +5200,7 @@ function GlitchTransition()
 	Title.Size = UDim2.new(0.797711372, 0, 0.0821957961, 0)
 	Title.ZIndex = 2
 	Title.Font = Enum.Font.GothamBold
-	Title.Text = "That wasn't supposed to happen... <b> <b> <b>555555"
+	Title.Text = "لم يكن من المفترض أن يحدث ذلك ... <b> <b> <b>555555"
 	Title.TextColor3 = Color3.fromRGB(235, 235, 235)
 	Title.TextScaled = true
 	Title.TextSize = 14.000
@@ -5318,7 +5318,7 @@ function GlitchTransition()
 	Title.Position = UDim2.new(0.0507893488, 0, 0.0654515773, 0)
 	Title.Size = UDim2.new(0, 200, 0, 18)
 	Title.Font = Enum.Font.GothamBold
-	Title.Text = "Shlex Softworks"
+	Title.Text = "شلكس سوفت ووركس "
 	Title.TextColor3 = Color3.fromRGB(238, 238, 238)
 	Title.TextScaled = true
 	Title.TextSize = 14.000
@@ -5368,7 +5368,7 @@ function GlitchTransition()
 	Mig.Position = UDim2.new(0.0507893413, 0, 0.544557095, 0)
 	Mig.Size = UDim2.new(0.47464776, 0, 0.0519015305, 0)
 	Mig.Font = Enum.Font.GothamBold
-	Mig.Text = "We're migrating your account"
+	Mig.Text = "نحن نقوم بترحيل حسابك "
 	Mig.TextColor3 = Color3.fromRGB(238, 238, 238)
 	Mig.TextScaled = true
 	Mig.TextSize = 14.000
@@ -5398,7 +5398,7 @@ function GlitchTransition()
 	TurnOffPc.Position = UDim2.new(0.44533959, 0, 0.932569861, 0)
 	TurnOffPc.Size = UDim2.new(0.519742846, 0, 0.035653688, 0)
 	TurnOffPc.Font = Enum.Font.GothamSemibold
-	TurnOffPc.Text = "Please do not close Roblox or turn off your PC"
+	TurnOffPc.Text = "من فضلك لا تغلق Roblox أو تطفئ جهاز الكمبيوتر الخاص بك "
 	TurnOffPc.TextColor3 = Color3.fromRGB(94, 94, 94)
 	TurnOffPc.TextScaled = true
 	TurnOffPc.TextSize = 14.000
@@ -5426,7 +5426,7 @@ function GlitchTransition()
 	LoadingInfo.Position = UDim2.new(-0.00209946721, 0, -16.2274342, 0)
 	LoadingInfo.Size = UDim2.new(0.851594985, 0, 10.4406357, 0)
 	LoadingInfo.Font = Enum.Font.GothamBold
-	LoadingInfo.Text = "Loading <nil>"
+	LoadingInfo.Text = "تحميل  <nil>"
 	LoadingInfo.TextColor3 = Color3.fromRGB(162, 162, 162)
 	LoadingInfo.TextScaled = true
 	LoadingInfo.TextSize = 14.000
@@ -5438,12 +5438,12 @@ function GlitchTransition()
 	Error.Visible = true
 	Notify("Error","GothamBold",Color3.fromRGB(170, 0, 0))
 	wait(0.9)
-	Notify("Mass Error","GothamBold",Color3.fromRGB(170, 0, 0))
+	Notify("خطأ جماعي ","GothamBold",Color3.fromRGB(170, 0, 0))
 	wait(0.6)
 	local s = Instance.new("Sound",Domain.Domain)
 	s.SoundId = "rbxassetid://"..2755928629
 	s:Play()
-	Notify("FATAL ERROR","GothamBold",Color3.fromRGB(170, 0, 0))
+	Notify("خطأ فادح ","GothamBold",Color3.fromRGB(170, 0, 0))
 	wait(0.4)
 	local s = Instance.new("Sound",Domain.Domain)
 	s.SoundId = "rbxassetid://"..2755928629
@@ -5452,14 +5452,14 @@ function GlitchTransition()
 	local s = Instance.new("Sound",Domain.Domain)
 	s.SoundId = "rbxassetid://"..2755928629
 	s:Play()
-	Notify("Roblox detection found","GothamBold",Color3.fromRGB(170, 0, 0))
+	Notify("تم العثور على اكتشاف Roblox ","GothamBold",Color3.fromRGB(170, 0, 0))
 	wait(0.6)
 	Notify("Rebooting..","GothamBold",Color3.fromRGB(0, 170, 127))
 	wait(2)
 	local s = Instance.new("Sound",Domain.Domain)
 	s.SoundId = "rbxassetid://"..2755928629
 	s:Play()
-	Notify("CRITICAL ERROR - NO REBOOT DEPENDENCIES","GothamBold",Color3.fromRGB(170, 0, 0))
+	Notify("خطأ فادح - لا توجد تبعيات إعادة التشغيل ","GothamBold",Color3.fromRGB(170, 0, 0))
 	wait(0.1)
 	Domain.Domain.Enabled = false
 	wait(0.2)
@@ -5484,22 +5484,22 @@ function GlitchTransition()
 	
 	Main:TweenSize(UDim2.new(0.32, 0,0.344, 0),"Out","Quint",0.4)
 	Main.Loading.Progress.Size = UDim2.new(0,0,1,0)
-	Main.Loading.LoadingInfo.Text = "Starting process"
+	Main.Loading.LoadingInfo.Text = "عملية البدء "
 	wait(1)
 	Main.Loading.Progress:TweenSize(UDim2.new(0.32, 0,1, 0),"Out","Quint",0.4)
-	Main.Loading.LoadingInfo.Text = "Fetching DomainV1"
+	Main.Loading.LoadingInfo.Text = "جارٍ جلب سكربت "
 	wait(1)
 	Main.Loading.Progress:TweenSize(UDim2.new(0.54, 0,1, 0),"Out","Quint",0.4)
-	Main.Loading.LoadingInfo.Text = "Fetching DomainV2"
+	Main.Loading.LoadingInfo.Text = "جارٍ جلب سكربت "
 	wait(1.7)
 	Main.Loading.Progress:TweenSize(UDim2.new(0.7, 0,1, 0),"Out","Quint",0.4)
-	Main.Loading.LoadingInfo.Text = "Booting first-time setup"
+	Main.Loading.LoadingInfo.Text = "تمهيد الإعداد لأول مرة "
 	wait(2)
 	Main.Loading.Progress:TweenSize(UDim2.new(0.9, 0,1, 0),"Out","Quint",0.4)
-	Main.Loading.LoadingInfo.Text = "Finishing up..."
+	Main.Loading.LoadingInfo.Text = "الانتهاء... "
 	wait(3)
 	Main.Loading.Progress:TweenSize(UDim2.new(1, 0,1, 0),"Out","Quint",0.6)
-	Main.Loading.LoadingInfo.Text = "Let's do this!"
+	Main.Loading.LoadingInfo.Text = "هيا بنا نقوم بذلك! "
 	wait(2)
 	Main:TweenSize(UDim2.new(0.291, 0,0.314, 0),"Out","Quint",0.4)
 	wait(0.3)
@@ -5533,7 +5533,7 @@ function BootDomain()
 		local Player = game.Players.LocalPlayer
 		
 		if table.find(Banned,Player.UserId) then
-			Notify("You have been banned from Domain V2, booting Domain V1","GothamBlack",Color3.fromRGB(170, 0, 0))
+			Notify("لقد تم باندك من سكربت  , .","GothamBlack",Color3.fromRGB(170, 0, 0))
 			LoadDomainV1()
 			Domain.ToggleButton.Visible = false
 			enabled = false
@@ -5546,12 +5546,12 @@ function BootDomain()
 	StartUnfunctionals()
 	
 		if game.Players.LocalPlayer:IsInGroup(10220078) then
-			Notify("Welcome, "..Player.DisplayName.." to Domain Hub Premium","GothamSemibold",Color3.fromRGB(46, 136, 111))
+			Notify("اهلا بك, "..Player.DisplayName.." إلى Domain Hub Premium ","GothamSemibold",Color3.fromRGB(46, 136, 111))
 
 			if theme and themedata and game.Players.LocalPlayer:IsInGroup(10220078) then
 
 				LoadTheme(themedata.BGColor1,themedata.BGColor2,themedata.LogoIcon)
-				Notify("Loading "..themedata.ThemeName.." theme","GothamSemibold",themedata.BGColor1)
+				Notify("تحميل "..themedata.ThemeName.." theme","GothamSemibold",themedata.BGColor1)
 			end
 			if startupsound and game.Players.LocalPlayer:IsInGroup(10220078) then
 				local ssound = Instance.new("Sound")
@@ -5563,27 +5563,27 @@ function BootDomain()
 			end
 		else
 			if theme and themedata then
-				Notify("We found theme data but couldn't load it as you aren't a Premium member","GothamSemibold",Color3.fromRGB(229, 146, 12))
+				Notify("لقد عثرنا على بيانات الموضوع ولكن لم نتمكن من تحميلها لأنك لست عضوًا مميزًا ","GothamSemibold",Color3.fromRGB(229, 146, 12))
 			end
 			if startupsound then
-				Notify("We found startupsound data but couldn't load it as you aren't a Premium member","GothamSemibold",Color3.fromRGB(229, 146, 12))
+				Notify("لقد عثرنا على بيانات صوت بدء التشغيل ولكن لم نتمكن من تحميلها لأنك لست عضوًا مميزًا ","GothamSemibold",Color3.fromRGB(229, 146, 12))
 			end
-			Notify(" Welcome, "..Player.DisplayName.." ","GothamSemibold",Color3.fromRGB(54, 54, 54))
+			Notify(" اهلا بك, "..Player.DisplayName.." ","GothamSemibold",Color3.fromRGB(54, 54, 54))
 		end
 	
 	for _, antiexploit in pairs(AntiExploits) do
 		if antiexploit.PlaceId == game.PlaceId then
 			for _, anti in ipairs(antiexploit.Locations) do
 				if #antiexploit.Locations > 1 then
-					Notify("Removed multiple anti cheats ("..tostring(#antiexploit.Locations)..")","GothamSemibold",Color3.fromRGB(0, 85, 127))
+					Notify("تمت إزالة العديد من عمليات الغش المضادة  ("..tostring(#antiexploit.Locations)..")","GothamSemibold",Color3.fromRGB(0, 85, 127))
 				else
-					Notify(" Removed 1 anti cheat ","GothamBold",Color3.fromRGB(0, 85, 127))
+					Notify(" تمت إزالة 1 مكافحة الغش  ","GothamBold",Color3.fromRGB(0, 85, 127))
 				end
 			end
 		end
 	end
 	if table.find(DangerousGames,game.PlaceId) then
-		Notify("This game will ban you if caught by anti cheat","GothamSemibold",Color3.fromRGB(206, 0, 0))
+		Notify("هذه اللعبة سوف تحظرك إذا تم القبض عليك من قبل مكافحة الغش ","GothamSemibold",Color3.fromRGB(206, 0, 0))
 	end
 	
 
@@ -5607,10 +5607,10 @@ function BootDomain()
 	for _, Player in ipairs(game.Players:GetChildren()) do
 		if game.Players.LocalPlayer:IsFriendsWith(Player.UserId) then
 			friendsingame = friendsingame - 1
-			Domain.amount_2.Text = friendsingame.." are in this game"	
+			Domain.amount_2.Text = friendsingame.." في هذه اللعبة "	
 		end
 		if friendsingame == 0 then
-			Domain.amount_2.Text = "None are in this game"	
+			Domain.amount_2.Text = "لا يوجد أحد في هذه اللعبة "	
 		end
 	end
 		for _, exp in pairs(BackgroundExploits) do
@@ -5629,7 +5629,7 @@ function BootDomain()
 		end
 		booteddomain = "true"
 		wait(4)
-		Notify("SHLEX DISCORD HAS BEEN DELETED! Please rejoin! Find the link in the About tab","GothamBold",Color3.fromRGB(235, 0, 0))
+		Notify("تم حذف SHLEX DISCORD! يرجى الانضمام مرة أخرى! ابحث عن الرابط في علامة التبويب "حول". ","GothamBold",Color3.fromRGB(235, 0, 0))
 		LoadPlayers()
 	else
 		Notify("Domain is not enabled at this time, try again later!","GothamSemibold",Color3.fromRGB(184, 0, 0))
@@ -5829,7 +5829,7 @@ bindable.Event:Connect(Notify)
 game.Players.PlayerRemoving:Connect(function(Player)
 	if game.Players.LocalPlayer:IsFriendsWith(Player.UserId) then
 		friendsingame = friendsingame + 1
-		Domain.amount_2.Text = friendsingame.." are in this server"	
+		Domain.amount_2.Text = friendsingame.." موجودة في هذا الخادم "	
 	end
 	if friendsingame == 0 then
 		Domain.amount_2.Text = "لا يوجد شيء في هذا سيرفر "	
@@ -5949,7 +5949,7 @@ function PromptFriendNotif(Plr)
 	snd.PlayOnRemove = true
 	Domain.FriendJoined.Visible = true
 	Domain.FriendJoined.Size = UDim2.new(0,0,0.195,0)
-	Domain.FriendJoined.Textjoin.Text = "Your friend, "..Plr.Name..", has joined this server"
+	Domain.FriendJoined.Textjoin.Text = "صديقك, "..Plr.Name..", دخل سيرفر"
 	Domain.FriendJoined.Textjoin.TextTransparency = 1
 	Domain.FriendJoined.Avatarjoin.Image = game:GetService("Players"):GetUserThumbnailAsync(Plr.UserId,Enum.ThumbnailType.AvatarBust,Enum.ThumbnailSize.Size420x420)
 	Domain.FriendJoined.Avatarjoin.ImageTransparency = 1
@@ -6112,7 +6112,7 @@ while true do
 		game:Shutdown()
 	end
 	if game:GetService("MarketplaceService"):UserOwnsGamePassAsync(game.Players.LocalPlayer.UserId,1198980) then
-		Notify("Lmao","GothamSemibold",Color3.fromRGB(255, 0, 0))
+		Notify("انفجرت من الضحك ","GothamSemibold",Color3.fromRGB(255, 0, 0))
 		wait(1.5)
 		game:Shutdown()
 	end
@@ -6126,7 +6126,7 @@ while true do
 	elseif friendsonline == 0 then
 		Domain.amount.Text = "ليس لديك أصدقاء على الانترنت "
 	else
-		Domain.amount.Text = "You have "..tostring(friendsonline).." friends online"
+		Domain.amount.Text = "لديك "..tostring(friendsonline).." أصدقاء على الانترنت "
 	end
 	wait(3)
 	local value = math.random(1,#loldiscord)
