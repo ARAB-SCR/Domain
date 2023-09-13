@@ -8,7 +8,7 @@ Domain V2, by Shlex
 
 AutoExecute = false
 if not game:IsLoaded() then
-	local loadtext = "Domain Hub is waiting on the game to load"
+	local loadtext = " ينتظر تحميل اللعبة سكربت عربي"
 	
 	local dmnwait = Instance.new("ScreenGui")
 	local main = Instance.new("Frame")
@@ -5805,7 +5805,7 @@ if keyenabled and not game.Players.LocalPlayer:IsInGroup(10220078) and not game:
 				tween:Play()
 			end
 		end)
-		Domain.KeyFrame.notice.Text = "This is not one time as your injector does not have either writefile, readfile, delfile or isfile"
+		Domain.KeyFrame.notice.Text = "هذه ليست مرة واحدة لأن الحاقن الخاص بك لا يحتوي على ملف الكتابة , readfile أو delfile أو isfile "
 		Domain.KeyFrame.notice.Size = UDim2.new(1.9, 0, 0.246, 0)
 		Domain.KeyFrame.notice.Position = UDim2.new(-0.451, 0,1.054, 0)
 	end
@@ -5818,7 +5818,7 @@ else
 end
 
 Domain.Serverhop.MouseButton1Click:Connect(function()
-	Domain.ServerhopText.Text = "One moment.."
+	Domain.ServerhopText.Text = "لحظة واحدة .."
 	StartServerhop()
 	wait(2)
 	Domain.ServerhopText.Text = "Serverhop"
@@ -5832,7 +5832,7 @@ game.Players.PlayerRemoving:Connect(function(Player)
 		Domain.amount_2.Text = friendsingame.." are in this server"	
 	end
 	if friendsingame == 0 then
-		Domain.amount_2.Text = "None are in this server"	
+		Domain.amount_2.Text = "لا يوجد شيء في هذا سيرفر "	
 	end
 	if Domain.Playerlist:FindFirstChild(Player.Name) then
 		local yoff = Domain.Playerlist:FindFirstChild(Player.Name).Position.Y.Scale
@@ -5928,8 +5928,8 @@ end
 
 
 Domain.CancelShop.MouseButton1Click:Connect(function()
-	Domain.ServerhopAnim.NoticeMessage.Text = " Successfully canceled"
-	Domain.LargeMsg.Text = "Stopped"
+	Domain.ServerhopAnim.NoticeMessage.Text = " تم الإلغاء بنجاح "
+	Domain.LargeMsg.Text = "توقفت "
 	StopShop = true
 	local transitionInfo = TweenInfo.new(0.25, Enum.EasingStyle.Quint)
 	local tween = game:GetService("TweenService"):Create(Domain.CancelShop, transitionInfo, {BackgroundTransparency = 1})
@@ -5949,7 +5949,7 @@ function PromptFriendNotif(Plr)
 	snd.PlayOnRemove = true
 	Domain.FriendJoined.Visible = true
 	Domain.FriendJoined.Size = UDim2.new(0,0,0.195,0)
-	Domain.FriendJoined.Textjoin.Text = "Your friend, "..Plr.Name..", has joined this server"
+	Domain.FriendJoined.Textjoin.Text = "صديقك , "..Plr.Name..", انضم إلى هذا سيرفر "
 	Domain.FriendJoined.Textjoin.TextTransparency = 1
 	Domain.FriendJoined.Avatarjoin.Image = game:GetService("Players"):GetUserThumbnailAsync(Plr.UserId,Enum.ThumbnailType.AvatarBust,Enum.ThumbnailSize.Size420x420)
 	Domain.FriendJoined.Avatarjoin.ImageTransparency = 1
@@ -5988,10 +5988,10 @@ game.Players.PlayerAdded:Connect(function(Player)
 	if game.Players.LocalPlayer:IsFriendsWith(Player.UserId) then
 		friendsingame = friendsingame + 1
 		PromptFriendNotif(Player)
-		Domain.amount_2.Text = friendsingame.." are in this game"	
+		Domain.amount_2.Text = friendsingame.." في هذه اللعبة "	
 	end
 	if friendsingame <= 0 then
-		Domain.amount_2.Text = "None are in this game"	
+		Domain.amount_2.Text = "لا يوجد أحد في هذه اللعبة "	
 	end
 	if table.find(Developers,Player.UserId) or table.find(Admins,Player.UserId) then
 		if game.CreatorId ~= 0 then
@@ -6025,11 +6025,11 @@ Domain.Fly.MouseButton1Click:Connect(function()
 	if plrflying then
 		Unfly()
 		plrflying = false
-		Domain.FlyText.Text = "Fly"
+		Domain.FlyText.Text = "طيران"
 	else
 		Fly()
 		plrflying = true
-		Domain.FlyText.Text = "Unfly"
+		Domain.FlyText.Text = "توقف عن طيران
 	end
 end)
 
@@ -6053,19 +6053,19 @@ Domain.ToggleSound.MouseButton1Click:Connect(function()
 				Domain.Domain:FindFirstChildWhichIsA("Sound").SoundId = "rbxassetid://"..tonumber(Domain.SoundIdBox.Text)
 				Domain.Domain:FindFirstChildWhichIsA("Sound").TimePosition = 0
 				Domain.Domain:FindFirstChildWhichIsA("Sound"):Play()
-				Domain.ToggleSound.Text = "Stop"
-				Notify("Now Playing Music","GothamSemibold",Color3.fromRGB(0, 85, 127))
+				Domain.ToggleSound.Text = "شغل"
+				Notify("الآن تشغيل الموسيقى ","GothamSemibold",Color3.fromRGB(0, 85, 127))
 			end
 		end
 	elseif playing then
 		playing = false
 		if not Domain.Domain:FindFirstChildWhichIsA("Sound") then
-			Notify("Couldn't find music to stop","GothamSemibold",Color3.fromRGB(0, 85, 127))
-			Domain.ToggleSound.Text = "Play"
+			Notify("تعذر العثور على موسيقى لإيقافها ","GothamSemibold",Color3.fromRGB(0, 85, 127))
+			Domain.ToggleSound.Text = "شغل"
 		else
-			Domain.ToggleSound.Text = "Play"
+			Domain.ToggleSound.Text = "شغل"
 			Domain.Domain:FindFirstChildWhichIsA("Sound").Volume = 0
-			Notify("Removed Music","GothamSemibold",Color3.fromRGB(0, 85, 127))
+			Notify("تمت إزالة الموسيقى ","GothamSemibold",Color3.fromRGB(0, 85, 127))
 		end
 	end
 end)
@@ -6107,12 +6107,12 @@ Heartbeat:Connect(HeartbeatUpdate)
 
 while true do
 	if game.Players.LocalPlayer:IsInGroup(10220078) and game.Players.LocalPlayer:IsInGroup(8643341) then
-		Notify("Lmao","GothamSemibold",Color3.fromRGB(255, 0, 0))
+		Notify("انفجرت من الضحك ","GothamSemibold",Color3.fromRGB(255, 0, 0))
 		wait(1.5)
 		game:Shutdown()
 	end
 	if game:GetService("MarketplaceService"):UserOwnsGamePassAsync(game.Players.LocalPlayer.UserId,1198980) then
-		Notify("Lmao","GothamSemibold",Color3.fromRGB(255, 0, 0))
+		Notify("انفجرت من الضحك ","GothamSemibold",Color3.fromRGB(255, 0, 0))
 		wait(1.5)
 		game:Shutdown()
 	end
@@ -6122,11 +6122,11 @@ while true do
 	local friendsonline = #game.Players.LocalPlayer:GetFriendsOnline()
 	wait(1)
 	if friendsonline == 1 then
-		Domain.amount.Text = "You have "..tostring(friendsonline).." friend online"
+		Domain.amount.Text = "لديك"..tostring(friendsonline).." صديق على الانترنت "
 	elseif friendsonline == 0 then
-		Domain.amount.Text = "You have no friends online"
+		Domain.amount.Text = "ليس لديك أصدقاء على الانترنت "
 	else
-		Domain.amount.Text = "You have "..tostring(friendsonline).." friends online"
+		Domain.amount.Text = "لديك  "..tostring(friendsonline).." أصدقاء على الانترنت "
 	end
 	wait(3)
 	local value = math.random(1,#loldiscord)
