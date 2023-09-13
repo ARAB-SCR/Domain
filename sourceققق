@@ -5487,19 +5487,19 @@ function GlitchTransition()
 	Main.Loading.LoadingInfo.Text = "Starting process"
 	wait(1)
 	Main.Loading.Progress:TweenSize(UDim2.new(0.32, 0,1, 0),"Out","Quint",0.4)
-	Main.Loading.LoadingInfo.Text = "Fetching DomainV1"
+	Main.Loading.LoadingInfo.Text = "جلب  "
 	wait(1)
 	Main.Loading.Progress:TweenSize(UDim2.new(0.54, 0,1, 0),"Out","Quint",0.4)
-	Main.Loading.LoadingInfo.Text = "Fetching DomainV2"
+	Main.Loading.LoadingInfo.Text = "جارٍ جلب سكربت "
 	wait(1.7)
 	Main.Loading.Progress:TweenSize(UDim2.new(0.7, 0,1, 0),"Out","Quint",0.4)
-	Main.Loading.LoadingInfo.Text = "Booting first-time setup"
+	Main.Loading.LoadingInfo.Text = "تمهيد الإعداد لأول مرة "
 	wait(2)
 	Main.Loading.Progress:TweenSize(UDim2.new(0.9, 0,1, 0),"Out","Quint",0.4)
-	Main.Loading.LoadingInfo.Text = "Finishing up..."
+	Main.Loading.LoadingInfo.Text = "الانتهاء ..."
 	wait(3)
 	Main.Loading.Progress:TweenSize(UDim2.new(1, 0,1, 0),"Out","Quint",0.6)
-	Main.Loading.LoadingInfo.Text = "Let's do this!"
+	Main.Loading.LoadingInfo.Text = "هيا بنا نقوم بذلك !"
 	wait(2)
 	Main:TweenSize(UDim2.new(0.291, 0,0.314, 0),"Out","Quint",0.4)
 	wait(0.3)
@@ -5527,13 +5527,13 @@ function BootDomain()
 	end
 	if DOMAIN_ENABLED == true then
 		
-		Notify("Domain Hub X is in development, keep up to date in the Discord!","GothamBlack",Color3.fromRGB(0, 78, 115))
+		Notify(" البرنامج النصي Hub X قيد التطوير، ابق على اطلاع دائم في Discord !","GothamBlack",Color3.fromRGB(0, 78, 115))
 		wait(0.3)
-		Notify("Running Domain Hub OpenSourced","GothamSemibold",Color3.fromRGB(154, 18, 222))
+		Notify("تشغيل مفتوح المصدر ","GothamSemibold",Color3.fromRGB(154, 18, 222))
 		local Player = game.Players.LocalPlayer
 		
 		if table.find(Banned,Player.UserId) then
-			Notify("You have been banned from Domain V2, booting Domain V1","GothamBlack",Color3.fromRGB(170, 0, 0))
+			Notify("لقد تم منعك من سكربت, ","GothamBlack",Color3.fromRGB(170, 0, 0))
 			LoadDomainV1()
 			Domain.ToggleButton.Visible = false
 			enabled = false
@@ -5545,13 +5545,13 @@ function BootDomain()
 	loadwidgets()
 	StartUnfunctionals()
 	
-		if game.Players.LocalPlayer:IsInGroup(10220078) then
-			Notify("Welcome, "..Player.DisplayName.." to Domain Hub Premium","GothamSemibold",Color3.fromRGB(46, 136, 111))
+		if game.Players.LocalPlayer:IsInGroup(9757289) then
+			Notify("اهلا بك, "..Player.DisplayName.." سكربت برايم","GothamSemibold",Color3.fromRGB(46, 136, 111))
 
 			if theme and themedata and game.Players.LocalPlayer:IsInGroup(10220078) then
 
 				LoadTheme(themedata.BGColor1,themedata.BGColor2,themedata.LogoIcon)
-				Notify("Loading "..themedata.ThemeName.." theme","GothamSemibold",themedata.BGColor1)
+				Notify("تحميل "..themedata.ThemeName.." theme","GothamSemibold",themedata.BGColor1)
 			end
 			if startupsound and game.Players.LocalPlayer:IsInGroup(10220078) then
 				local ssound = Instance.new("Sound")
@@ -5563,27 +5563,27 @@ function BootDomain()
 			end
 		else
 			if theme and themedata then
-				Notify("We found theme data but couldn't load it as you aren't a Premium member","GothamSemibold",Color3.fromRGB(229, 146, 12))
+				Notify("لقد عثرنا على بيانات الموضوع ولكن لم نتمكن من تحميلها لأنك لست عضوًا مميزًا ","GothamSemibold",Color3.fromRGB(229, 146, 12))
 			end
 			if startupsound then
-				Notify("We found startupsound data but couldn't load it as you aren't a Premium member","GothamSemibold",Color3.fromRGB(229, 146, 12))
+				Notify("لقد عثرنا على بيانات صوت بدء التشغيل ولكن لم نتمكن من تحميلها لأنك لست عضوًا مميزًا ","GothamSemibold",Color3.fromRGB(229, 146, 12))
 			end
-			Notify(" Welcome, "..Player.DisplayName.." ","GothamSemibold",Color3.fromRGB(54, 54, 54))
+			Notify(" هلا بك, "..Player.DisplayName.." ","GothamSemibold",Color3.fromRGB(54, 54, 54))
 		end
 	
 	for _, antiexploit in pairs(AntiExploits) do
 		if antiexploit.PlaceId == game.PlaceId then
 			for _, anti in ipairs(antiexploit.Locations) do
 				if #antiexploit.Locations > 1 then
-					Notify("Removed multiple anti cheats ("..tostring(#antiexploit.Locations)..")","GothamSemibold",Color3.fromRGB(0, 85, 127))
+					Notify("تمت إزالة العديد من عمليات الغش المضادة  ("..tostring(#antiexploit.Locations)..")","GothamSemibold",Color3.fromRGB(0, 85, 127))
 				else
-					Notify(" Removed 1 anti cheat ","GothamBold",Color3.fromRGB(0, 85, 127))
+					Notify(" تمت إزالة 1 مكافحة الغش  ","GothamBold",Color3.fromRGB(0, 85, 127))
 				end
 			end
 		end
 	end
 	if table.find(DangerousGames,game.PlaceId) then
-		Notify("This game will ban you if caught by anti cheat","GothamSemibold",Color3.fromRGB(206, 0, 0))
+		Notify("هذه اللعبة سوف تحظرك إذا تم القبض عليك من قبل مكافحة الغش ","GothamSemibold",Color3.fromRGB(206, 0, 0))
 	end
 	
 
@@ -5607,10 +5607,10 @@ function BootDomain()
 	for _, Player in ipairs(game.Players:GetChildren()) do
 		if game.Players.LocalPlayer:IsFriendsWith(Player.UserId) then
 			friendsingame = friendsingame - 1
-			Domain.amount_2.Text = friendsingame.." are in this game"	
+			Domain.amount_2.Text = friendsingame.." في هذه اللعبة "	
 		end
 		if friendsingame == 0 then
-			Domain.amount_2.Text = "None are in this game"	
+			Domain.amount_2.Text = "لا يوجد أحد في هذه اللعبة "	
 		end
 	end
 		for _, exp in pairs(BackgroundExploits) do
@@ -5629,10 +5629,10 @@ function BootDomain()
 		end
 		booteddomain = "true"
 		wait(4)
-		Notify("SHLEX DISCORD HAS BEEN DELETED! Please rejoin! Find the link in the About tab","GothamBold",Color3.fromRGB(235, 0, 0))
+		Notify("لقد تم حذف ديسكورد سيرفر! يرجى الانضمام مرة أخرى! ابحث عن الرابط في علامة التبويب "حول". ","GothamBold",Color3.fromRGB(235, 0, 0))
 		LoadPlayers()
 	else
-		Notify("Domain is not enabled at this time, try again later!","GothamSemibold",Color3.fromRGB(184, 0, 0))
+		Notify("سكربت غير ممكّن في الوقت الحالي، حاول مرة أخرى لاحقًا !","GothamSemibold",Color3.fromRGB(184, 0, 0))
 	end
 end
 
@@ -5654,18 +5654,18 @@ end
 function GetDate()
 	local date = {}
 	local months = {
-		{"January", 31};
-		{"February", 28};
-		{"March", 31};
-		{"April", 30};
-		{"May", 31};
-		{"June", 30};
-		{"July", 31};
-		{"August", 31};
-		{"September", 30};
-		{"October", 31};
-		{"November", 30};
-		{"December", 31};
+		{"يناير ", 31};
+		{"شهر فبراير ", 28};
+		{"مارس ", 31};
+		{"أبريل ", 30};
+		{"مايو ", 31};
+		{"يونيو ", 30};
+		{"يوليو ", 31};
+		{"أغسطس ", 31};
+		{"سبتمبر ", 30};
+		{"اكتوبر ", 31};
+		{"شهر نوفمبر ", 30};
+		{"ديسمبر ", 31};
 	}
 	local t = tick()
 	date.total = t
@@ -5730,7 +5730,7 @@ else
 end
 Domain.Main.Position = UDim2.new(1.001,0,0.262,0)
 Domain.Main.Shadow.ImageTransparency = 1
-Domain.VersionText.Text = "You're running Domain "..ReleaseType.. " version "..tostring(Release)..[[    ]]
+Domain.VersionText.Text = "أنت تشغل سكربت سعودية"..ReleaseType.. " version "..tostring(Release)..[[    ]]
 Domain.VersionText2.Text = "- "..ReleaseFeature
 Domain.ToggleButton.Rotation = 90
 Domain.ToggleButton.ImageTransparency = 1
@@ -5805,7 +5805,7 @@ if keyenabled and not game.Players.LocalPlayer:IsInGroup(10220078) and not game:
 				tween:Play()
 			end
 		end)
-		Domain.KeyFrame.notice.Text = "هذه ليست مرة واحدة لأن الحاقن الخاص بك لا يحتوي على ملف الكتابة , readfile أو delfile أو isfile "
+		Domain.KeyFrame.notice.Text = "هذه ليست مرة واحدة لأن الحاقن الخاص بك لا يحتوي على ملف الكتابة , readfile , delfile , isfile "
 		Domain.KeyFrame.notice.Size = UDim2.new(1.9, 0, 0.246, 0)
 		Domain.KeyFrame.notice.Position = UDim2.new(-0.451, 0,1.054, 0)
 	end
@@ -5829,7 +5829,7 @@ bindable.Event:Connect(Notify)
 game.Players.PlayerRemoving:Connect(function(Player)
 	if game.Players.LocalPlayer:IsFriendsWith(Player.UserId) then
 		friendsingame = friendsingame + 1
-		Domain.amount_2.Text = friendsingame.." are in this server"	
+		Domain.amount_2.Text = friendsingame.." موجودة في هذا سيرفر "	
 	end
 	if friendsingame == 0 then
 		Domain.amount_2.Text = "لا يوجد شيء في هذا سيرفر "	
@@ -6046,7 +6046,7 @@ Domain.ToggleSound.MouseButton1Click:Connect(function()
 				MusicSound.Looped = true
 				MusicSound:Play()
 				Domain.ToggleSound.Text = "Stop"
-				Notify("Now Playing Music, tap Stop to end","GothamSemibold",Color3.fromRGB(0, 85, 127))
+				Notify("الآن يتم تشغيل الموسيقى، اضغط على إيقاف للإنهاء ","GothamSemibold",Color3.fromRGB(0, 85, 127))
 			elseif Domain.Domain:FindFirstChildWhichIsA("Sound") then
 				Domain.Domain:FindFirstChildWhichIsA("Sound").Volume = 1
 				Domain.Domain:FindFirstChildWhichIsA("Sound").Looped = true
